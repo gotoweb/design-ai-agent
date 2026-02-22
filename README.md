@@ -90,22 +90,22 @@ sequenceDiagram
 
 ## 각주
 
-\[^1\]: OpenAI\, "Text Generation Guide" — 시스템 프롬프트 및 Chat Completions API 공식 문서. https://platform.openai.com/docs/guides/text-generation
+[^1]: OpenAI\, "Text Generation Guide" — 시스템 프롬프트 및 Chat Completions API 공식 문서. https://platform.openai.com/docs/guides/text-generation
 
-\[^2\]: OpenAI\, "Function Calling and Other API Updates" \(2023.06\) — GPT-3.5 Turbo 및 GPT-4에 Function Calling 도입 발표. https://openai.com/index/function-calling-and-other-api-updates/
+[^2]: OpenAI\, "Function Calling and Other API Updates" \(2023.06\) — GPT-3.5 Turbo 및 GPT-4에 Function Calling 도입 발표. https://openai.com/index/function-calling-and-other-api-updates/
 
-\[^3\]: Anthropic\, "Introducing the Model Context Protocol" \(2024.11\) — MCP 오픈소스 공개 발표. https://www.anthropic.com/news/model-context-protocol
+[^3]: Anthropic\, "Introducing the Model Context Protocol" \(2024.11\) — MCP 오픈소스 공개 발표. https://www.anthropic.com/news/model-context-protocol
 
-\[^4\]: Anthropic\, "Donating MCP to the Agentic AI Foundation" \(2025.12\) — MCP를 Linux Foundation 산하에 기부\, OpenAI·Google·Microsoft·AWS 등 공동 지원. https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+[^4]: Anthropic\, "Donating MCP to the Agentic AI Foundation" \(2025.12\) — MCP를 Linux Foundation 산하에 기부\, OpenAI·Google·Microsoft·AWS 등 공동 지원. https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
 
-\[^5\]: Anthropic\, "Code Execution with MCP: Building More Efficient Agents" \(2025.11\) — 도구 과다 시 토큰 오버헤드가 98.7%에 달할 수 있음을 실증. https://www.anthropic.com/engineering/code-execution-with-mcp
+[^5]: Anthropic\, "Code Execution with MCP: Building More Efficient Agents" \(2025.11\) — 도구 과다 시 토큰 오버헤드가 98.7%에 달할 수 있음을 실증. https://www.anthropic.com/engineering/code-execution-with-mcp
 
-\[^6\]: Liu\, N. F. et al.\, "Lost in the Middle: How Language Models Use Long Contexts" \(2023\)\, Stanford University & UC Berkeley — 긴 컨텍스트에서 중간 정보의 성능 저하를 실증한 논문. https://arxiv.org/abs/2307.03172
+[^6]: Liu\, N. F. et al.\, "Lost in the Middle: How Language Models Use Long Contexts" \(2023\)\, Stanford University & UC Berkeley — 긴 컨텍스트에서 중간 정보의 성능 저하를 실증한 논문. https://arxiv.org/abs/2307.03172
 
-\[^7\]: AGENTS.md\, "A simple\, open format for guiding coding agents" — OpenAI\, Google\, Cursor\, Sourcegraph 등이 2025년 8월 공동 표준화한 에이전트 설정 파일 포맷. https://github.com/agentsmd/agents.md
+[^7]: AGENTS.md\, "A simple\, open format for guiding coding agents" — OpenAI\, Google\, Cursor\, Sourcegraph 등이 2025년 8월 공동 표준화한 에이전트 설정 파일 포맷. https://github.com/agentsmd/agents.md
 
-\[^8\]: Agent Skills\, "A simple\, open format for giving agents new capabilities" — 에이전트에 전문 지식과 워크플로를 부여하는 경량 오픈 포맷 사양. https://agentskills.io/
+[^8]: Agent Skills\, "A simple\, open format for giving agents new capabilities" — 에이전트에 전문 지식과 워크플로를 부여하는 경량 오픈 포맷 사양. https://agentskills.io/
 
-\[^9\]: OpenClaw\, "USER.md — About Your Human" — 사용자의 배경\, 선호도\, 컨텍스트를 저장하는 개인화 템플릿. https://docs.openclaw.ai/reference/templates/USER
+[^9]: OpenClaw\, "USER.md — About Your Human" — 사용자의 배경\, 선호도\, 컨텍스트를 저장하는 개인화 템플릿. https://docs.openclaw.ai/reference/templates/USER
 
-\[^10\]: Anthropic\, "Building Effective Agents" \(2024.12\) — 에이전틱 시스템의 아키텍처 패턴 및 동적 도구 선택 가이드. https://www.anthropic.com/engineering/building-effective-agents
+[^10]: Anthropic\, "Building Effective Agents" \(2024.12\) — 에이전틱 시스템의 아키텍처 패턴 및 동적 도구 선택 가이드. https://www.anthropic.com/engineering/building-effective-agents
